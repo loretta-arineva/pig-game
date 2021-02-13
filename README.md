@@ -48,3 +48,5 @@ I built this game for fun and to practice the MVC architecture. You can play the
 4. **New Game**
     * Resets the game.
  
+ ## Author
+ * Loreta Krasteva
