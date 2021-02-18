@@ -1,5 +1,16 @@
 # Pig Game
 
+## Table of contents
+
+* [Description](#description)
+* [Play now](#play-now)
+* [Installation](#installation)
+* [About this game](#about-this-game)
+    * [Technologies](#technologies)
+* [Gameplay](#gameplay)
+* [Author](#author)
+
+## Description
 Pig is a simple dice game first described in print by John Scarne in 1945. Players take turns to roll a single die as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1.
 
 ## Play now
@@ -19,7 +30,7 @@ Pig is a simple dice game first described in print by John Scarne in 1945. Playe
 ## About this game
 I built this game for fun and to practice the MVC architecture. You can play the game, but keep in mind that the game is still in development and lacks some features.
 
-### Stack and methodology used
+### Technologies
 * Stack
     1. Vanilla JS
     2. HMTL
