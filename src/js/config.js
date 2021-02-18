@@ -1,1 +1,1 @@
-export const WINNING_NUMBER = 15;
+export const WINNING_NUMBER = 100;

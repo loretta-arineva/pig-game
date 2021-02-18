@@ -2,8 +2,10 @@
 
 Pig is a simple dice game first described in print by John Scarne in 1945. Players take turns to roll a single die as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1.
 
-## CHECK LIVE
-Check live at: https://dice-pig-game-mvc.netlify.app/
+## Play now
+[Play Pig Game now](https://dice-pig-game-mvc.netlify.app/)
+![Pig Game Screenshot](./src/img/dice-pig-game-screenshot.png "Pig Game Screenshot")
+![Pig Game Screenshot](./src/img/pig-game-dice-screenshot.png "Pig Game Screenshot")
 
 ## Installation 
 1. Clone repository - Go ahead and clone the repository.
@@ -52,4 +54,4 @@ I built this game for fun and to practice the MVC architecture. You can play the
     * Resets the game.
  
  ## Author
- * Loreta Krasteva
+ * Made with love by Loreta Krasteva ~
